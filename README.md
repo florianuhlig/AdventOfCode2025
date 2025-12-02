@@ -1,4 +1,5 @@
 # AdventOfCode2025
 
 ### 1
-To use 'python3 1.py input_1.txt'
+To use go in the directory 'Day1'
+And run 'python3 final.py input_1.txt'
